@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+.img {
+  height: 400px;
+  width: 400px;
+  display: block;
+  margin: 0px auto;
+}
+.content {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  background-color: azure;
+}
+.title {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
